@@ -1,0 +1,107 @@
+[
+ {
+  "sku": "SKU-NB-001",
+  "counted": 25,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-NB-002",
+  "counted": 20,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-NB-003",
+  "counted": 40,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-NB-004",
+  "counted": 39,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-NB-005",
+  "counted": 20,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-PH-006",
+  "counted": 8,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-PH-007",
+  "counted": 0,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-PH-008",
+  "counted": 22,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-PH-009",
+  "counted": 20,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-PR-010",
+  "counted": 40,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-PR-011",
+  "counted": 12,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-PR-012",
+  "counted": 25,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-PR-013",
+  "counted": 5,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-PR-014",
+  "counted": 26,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-CP-015",
+  "counted": 25,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-CP-016",
+  "counted": 7,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-CP-017",
+  "counted": 25,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-CP-018",
+  "counted": 41,
+  "counted_by": "не"
+ },
+ {
+  "sku": "SKU-AC-019",
+  "counted": 0,
+  "counted_by": "ыв"
+ },
+ {
+  "sku": "SKU-AC-020",
+  "counted": 8,
+  "counted_by": "ак"
+ },
+ {
+  "sku": "SKU-AC-021",
+  "counted": 5,
+  "counted_by": "ак"
+ }
+]
